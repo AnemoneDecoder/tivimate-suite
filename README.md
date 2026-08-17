@@ -32,4 +32,4 @@ All-in-one **Tivimate Suite** entertainment platform featuring high-quality stre
 
 ## 🔗 Links
 - 📥 **Grab the latest version:** [https://tivimate-suite.softyx.xyz](https://tivimate-suite.softyx.xyz)
-- 📖 **Documentation:** [https://tivimate-suite.softyx.xyz](https://tivimate-suite.softyx.xyz)
+- 📖 **Documentation:** [https://tivimate-suite.softyx.xyz](https://tivimate-suite.softyx.xyz) 
